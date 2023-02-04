@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/testvkapps.github.io/static/js/main.21a6fbe5.js",
+    "static/js/585.2f436d59.js": "/testvkapps.github.io/static/js/585.2f436d59.js",
+    "static/media/MaterialCommunityIcons.ttf": "/testvkapps.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Ionicons.ttf": "/testvkapps.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/MaterialIcons.ttf": "/testvkapps.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/testvkapps.github.io/static/media/OpenSans-SemiBold.029b9bc9d72f4d799803.ttf",
+    "static/media/FontAwesome5_Solid.ttf": "/testvkapps.github.io/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/FontAwesome.ttf": "/testvkapps.github.io/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "/testvkapps.github.io/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
+    "static/media/OpenSans-Bold.ttf": "/testvkapps.github.io/static/media/OpenSans-Bold.dbb97fd982ce1b96b6de.ttf",
+    "static/media/OpenSans-Regular.ttf": "/testvkapps.github.io/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "static/media/AntDesign.ttf": "/testvkapps.github.io/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/Entypo.ttf": "/testvkapps.github.io/static/media/Entypo.fc6169344c041cffcdae.ttf",
+    "static/media/Feather.ttf": "/testvkapps.github.io/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "static/media/FontAwesome5_Regular.ttf": "/testvkapps.github.io/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
+    "favicon.ico": "/testvkapps.github.io/favicon.ico",
+    "static/media/phone_call_icon.png": "/testvkapps.github.io/static/media/phone_call_icon.a40e7e0ac0d6246d9800.png",
+    "index.html": "/testvkapps.github.io/index.html",
+    "favicon-32.png": "/testvkapps.github.io/favicon-32.png",
+    "manifest.json": "/testvkapps.github.io/manifest.json",
+    "favicon-16.png": "/testvkapps.github.io/favicon-16.png",
+    "serve.json": "/testvkapps.github.io/serve.json",
+    "main.21a6fbe5.js.map": "/testvkapps.github.io/static/js/main.21a6fbe5.js.map",
+    "585.2f436d59.js.map": "/testvkapps.github.io/static/js/585.2f436d59.js.map"
+  },
+  "entrypoints": [
+    "static/js/585.2f436d59.js",
+    "static/js/main.21a6fbe5.js"
+  ]
+}
