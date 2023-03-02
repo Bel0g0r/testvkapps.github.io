@@ -2,19 +2,19 @@
   "background_color": "#ff7300",
   "display": "standalone",
   "lang": "en",
-  "name": "Sushi Time",
-  "short_name": "Sushi Time",
+  "name": "Vkusno-box",
+  "short_name": "Vkusno-box",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.sushitime.app"
+      "id": "ru.vkusno-box.app"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.sushitime.app",
-      "id": "ru.sushitime.app"
+      "url": "http://play.google.com/store/apps/details?id=ru.vkusno-box.app",
+      "id": "ru.vkusno-box.app"
     }
   ],
   "prefer_related_applications": true
