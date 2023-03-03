@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testvkapps.github.io/static/css/main.dd6e5a84.css",
-    "main.js": "/testvkapps.github.io/static/js/main.cbf18f23.js",
+    "main.js": "/testvkapps.github.io/static/js/main.0e9a65ff.js",
     "static/js/356.d312eb92.js": "/testvkapps.github.io/static/js/356.d312eb92.js",
     "static/media/MaterialCommunityIcons.ttf": "/testvkapps.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/testvkapps.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
@@ -30,12 +30,12 @@
     "favicon-16.png": "/testvkapps.github.io/favicon-16.png",
     "serve.json": "/testvkapps.github.io/serve.json",
     "main.dd6e5a84.css.map": "/testvkapps.github.io/static/css/main.dd6e5a84.css.map",
-    "main.cbf18f23.js.map": "/testvkapps.github.io/static/js/main.cbf18f23.js.map",
+    "main.0e9a65ff.js.map": "/testvkapps.github.io/static/js/main.0e9a65ff.js.map",
     "356.d312eb92.js.map": "/testvkapps.github.io/static/js/356.d312eb92.js.map"
   },
   "entrypoints": [
     "static/js/356.d312eb92.js",
     "static/css/main.dd6e5a84.css",
-    "static/js/main.cbf18f23.js"
+    "static/js/main.0e9a65ff.js"
   ]
 }
