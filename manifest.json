@@ -1,20 +1,20 @@
 {
-  "background_color": "#ff7300",
+  "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Vkusno-box",
-  "short_name": "Vkusno-box",
+  "name": "PixelCRM DemoApp",
+  "short_name": "PixelCRM DemoApp",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.vkusno-box.app"
+      "id": "ru.pixelcrm.app.starfish"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.vkusno-box.app",
-      "id": "ru.vkusno-box.app"
+      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.starfish",
+      "id": "ru.pixelcrm.app.starfish"
     }
   ],
   "prefer_related_applications": true
