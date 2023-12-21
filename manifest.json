@@ -2,19 +2,19 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "PixelCRM DemoApp",
-  "short_name": "PixelCRM DemoApp",
+  "name": "Мясторт",
+  "short_name": "Мясторт",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "ru.pixelcrm.app.starfish"
+      "id": "ru.pixelcrm.app.maystort"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.starfish",
-      "id": "ru.pixelcrm.app.starfish"
+      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.maystort",
+      "id": "ru.pixelcrm.app.maystort"
     }
   ],
   "prefer_related_applications": true

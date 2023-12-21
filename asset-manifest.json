@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/testvkapps.github.io/static/css/main.dd6e5a84.css",
-    "main.js": "/testvkapps.github.io/static/js/main.b395f105.js",
-    "static/js/356.fe603d19.js": "/testvkapps.github.io/static/js/356.fe603d19.js",
+    "main.js": "/testvkapps.github.io/static/js/main.8f7ea21f.js",
+    "static/js/356.4eaab21c.js": "/testvkapps.github.io/static/js/356.4eaab21c.js",
     "static/media/MaterialCommunityIcons.ttf": "/testvkapps.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/testvkapps.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/testvkapps.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -30,12 +30,12 @@
     "favicon-16.png": "/testvkapps.github.io/favicon-16.png",
     "serve.json": "/testvkapps.github.io/serve.json",
     "main.dd6e5a84.css.map": "/testvkapps.github.io/static/css/main.dd6e5a84.css.map",
-    "main.b395f105.js.map": "/testvkapps.github.io/static/js/main.b395f105.js.map",
-    "356.fe603d19.js.map": "/testvkapps.github.io/static/js/356.fe603d19.js.map"
+    "main.8f7ea21f.js.map": "/testvkapps.github.io/static/js/main.8f7ea21f.js.map",
+    "356.4eaab21c.js.map": "/testvkapps.github.io/static/js/356.4eaab21c.js.map"
   },
   "entrypoints": [
-    "static/js/356.fe603d19.js",
+    "static/js/356.4eaab21c.js",
     "static/css/main.dd6e5a84.css",
-    "static/js/main.b395f105.js"
+    "static/js/main.8f7ea21f.js"
   ]
 }
